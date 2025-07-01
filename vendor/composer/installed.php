@@ -3,7 +3,7 @@
         'name' => 'cfenn/lab-5-starter-kit',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b4ea692673e925c08c891e86edf0da052f970da2',
+        'reference' => '4f610f7b95677e5c795cab6ed3133936d628e654',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'cfenn/lab-5-starter-kit' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b4ea692673e925c08c891e86edf0da052f970da2',
+            'reference' => '4f610f7b95677e5c795cab6ed3133936d628e654',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
